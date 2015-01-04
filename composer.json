@@ -1,0 +1,8 @@
+{
+    "name": "sample/website",
+  "require": {
+    "paypal/rest-api-sdk-php" : "*"
+  }
+
+
+}
